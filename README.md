@@ -1,6 +1,6 @@
 ## Assembly
 # 1s and 0s
-This is Low Level we are seeing here, Let's give respect to all who make omputers.
+This is Low Level we are seeing here, Let's give respect to all who make computers and machines.
 
 ## Projects
 
