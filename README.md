@@ -1,5 +1,8 @@
 ## Assembly
 # 1s and 0s
+This is Low Level we are seeing here, Let's give respect to all who make omputers.
+
+## Projects
 
 ## [HelloWorld.s](https://github.com/imboowa/Assembly/blob/main/main.s)
 When Assembly writes Hello World, guess computers can greet too. I found this out two months ago, 2025. I really knew less or little of registers `fast variables in Assembly`, pointers `point to a memroy address`, and memory addresses `"postal code" where values live`. I now see the knowledge from the CPU to the Python logic `print("Hello, World!")`. Using registers, memory address, and pointers in Assembly, I can make the CPU output hello world. The stack is the most efficient pop and push algorithm in my perspective. I know less of algorithms but htis in magic, push and pop is the drill.
