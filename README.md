@@ -18,5 +18,3 @@ This combines previous programs hence it has **pointers**, **memory addresses**,
 
 # LinkedIn
 [Immanuel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
-
-©2025 Immanuel Mboowa. All Rights reserved
